@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - maxNumber",
+            "request": "launch",
+            "mainClass": "maxNumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Triangles",
+            "request": "launch",
+            "mainClass": "Triangles"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - drawTriangle",
+            "request": "launch",
+            "mainClass": "drawTriangle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - triangle",
+            "request": "launch",
+            "mainClass": "triangle"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloNumbers",
+            "request": "launch",
+            "mainClass": "HelloNumbers"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        }
+    ]
+}
